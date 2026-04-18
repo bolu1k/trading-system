@@ -1,0 +1,6 @@
+backtrader>=1.9.78
+pandas>=2.0
+yfinance>=0.2.40
+pytz>=2023.3
+python-dotenv>=1.0.0
+alpaca-py>=0.30.0
